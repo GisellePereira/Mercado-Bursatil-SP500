@@ -24,6 +24,7 @@ MENÚ:
 - Sectores_top10.ipynb, los 10 sectores mas importantes, y reducción de más del 50% de sectores elegidos.
 - ROI.ipynb, ROI de los sectores elegidos.
 - Predicción.ipynb, predicción de precios hasta el año 2024.
+- Por último icono2.png, es el icono que utilice en la presentación.
 
 
 
