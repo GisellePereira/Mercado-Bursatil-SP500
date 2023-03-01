@@ -3,6 +3,7 @@
 
 
 - Mi Rol:
+
 Soy una Data Analytics que trabaja una empresa que busca invertir en el mercado bursátil, más especificamente en el índice S&P 500. 
 
 Debo realizar un análisis exhaustivo ya que el cliente no conoce esta área financiera, se le dará una explicación de qué ha sucedido en este mercado en los últimos 23 años.
