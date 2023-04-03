@@ -18,7 +18,6 @@ Dar un contexto de la situación.
 
 Generar recomendaciones de inversión, y qué día de la semana es recomendable hacerlo.
 
-- Trabajo hecho en Power Bi -->> [Link](https://drive.google.com/file/d/1D4fBR1GP7fJgJ581AqxjV5unLcg4FxTh/view?usp=sharing)
 
 MENÚ:
 
