@@ -1,4 +1,4 @@
-# Proyecto_Individual02
+# S&P 500
 | Pereira Nuñez, Giselle
 
 
